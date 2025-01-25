@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bdcard/static/css/main.21ca300b.css",
+    "main.js": "/bdcard/static/js/main.00f7c62c.js",
+    "static/media/last.gif": "/bdcard/static/media/last.def0a4d871a893c0541c.gif",
+    "static/media/main.jpeg": "/bdcard/static/media/main.93c0e95d4f05bcf68dc1.jpeg",
+    "static/media/bd.png": "/bdcard/static/media/bd.258efeab335e23a52ca8.png",
+    "index.html": "/bdcard/index.html",
+    "main.21ca300b.css.map": "/bdcard/static/css/main.21ca300b.css.map",
+    "main.00f7c62c.js.map": "/bdcard/static/js/main.00f7c62c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21ca300b.css",
+    "static/js/main.00f7c62c.js"
+  ]
+}
